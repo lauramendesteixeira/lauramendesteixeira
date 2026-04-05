@@ -1,26 +1,32 @@
- Laura Mendes Teixeira
 
-**`Cybersecurity Student | Systems Development Technician`**
+ <img width="1117" height="304" alt="5" src="https://github.com/user-attachments/assets/db9cd82e-ff3a-4ccc-bd82-4576ab2063df" />
+ 
+<hr style="border: none; border-top: 1px solid rgba(0,255,255,0.3);">
 
-Systems Analysis and Development Technician graduate from SENAI, with a focus on web development and programming fundamentals. Currently pursuing a Bachelor's degree in Cybersecurity at SENAI Paulo Antônio Skaf.   
+<div align="center">
+  <a href="https://www.linkedin.com/in/laura-mendes-teixeira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/ylaura_m" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:lauramendes1419@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
-My technical skills include Python, PHP, JavaScript, HTML, CSS, React, Flask, Flet, and MySQL, applied in academic projects focused on web development and system structuring. I have knowledge of front-end and back-end development, database modeling, and code organization.
+<h3 align="center">Sobre mim</h3>
+<hr style="border: none; border-top: 1px solid rgba(0,255,255,0.3);">
 
-In the context of my Cybersecurity studies, I have experience with Linux, virtualization, and virtual machine configuration.
-
-<p align="left">
-
-<a href="www.linkedin.com/in/laura-mendes-teixeira" target="_blank">
-  <img 
-       alt="LinkedIn" 
-       title="Meu LinkedIn" 
-       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-
+<p align="center">
+  <b><code>Estudante de Segurança Cibernética | Técnica em Análise e Desenvolvimento de Sistemas</code></b>
 </p>
 
----
+<p align="center">
+  Técnica em Desenvolvimento de Sistemas formada pelo SENAI, com foco em desenvolvimento web e fundamentos de programação. Atualmente cursando Segurança Cibernética.
+</p>
+
+<hr style="border: none; border-top: 1px solid rgba(0,255,255,0.3);">
 
 ### Languages and Technologies
 
