@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  Systems Analysis and Development Technician graduate from SENAI, with a focus on web development and programming fundamentals. Currently pursuing a Technology degree in Cybersecurity.
+  I am Laura Mendes Teixeira - Systems Analysis and Development Technician graduate from SENAI, with a focus on web development and programming fundamentals. Currently pursuing a Technology degree in Cybersecurity.
 </p>
 
 <br>
