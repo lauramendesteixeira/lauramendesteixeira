@@ -12,6 +12,7 @@ In the context of my Cybersecurity studies, I have experience with Linux, virtua
 <div>
   <a href="https://github.com/lauramendesteixeira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauramendesteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramendesteixeira&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
