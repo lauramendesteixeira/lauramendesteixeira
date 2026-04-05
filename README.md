@@ -62,6 +62,7 @@
 <h4 align="center">Systems & Infrastructure</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux">
+ <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/Active Directory-000000?style=for-the-badge">
 </div>
 
